@@ -1,0 +1,1 @@
+c:\python27\python.exe runSimOneCPU.py --gui --numRuns 1 --numCyclesPerRun 100 --squareSide 1 --pkPeriod 0.01 --pkPeriodVar 0.01 --slotframeLength 23 --slotDuration 0.005 --objective_function {0} --simDataDir {1} --numMotes {2}

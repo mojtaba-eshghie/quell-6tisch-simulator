@@ -1,0 +1,47 @@
+## minRssi = -97
+## dioPeriod = 1.0
+## burstTimestamp = 20
+## squareSide = 1.0
+## objective_function = OF0
+## numMotes = 30
+## generateIndividualSummarys = False
+## otfHousekeepingPeriod = 5.0
+## sixtopNoRemoveWorstCell = 0
+## simDataDir = somewhere
+## numChans = 4
+## slotframeLength = 23
+## scheduler = none
+## cpuID = None
+## sixtopPdrThreshold = 1.5
+## numBroadcastCells = 0
+## pkPeriod = 0.01
+## sixtopHousekeepingPeriod = 1.0
+## sixtopNoHousekeeping = 0
+## pkPeriodVar = 0.01
+## numCyclesPerRun = 100
+## startTime = 1530916398.31
+## otfEnabled = True
+## slotDuration = 0.01
+## numRuns = 1
+## overlappingBrCells = 0
+## combinationKeys = ['numMotes', 'pkPeriod']
+## numPacketsBurst = 5
+## otfThreshold = 0
+## noInterference = 0
+## gui = True
+
+
+# PKTRX PKTTX appGenerated appReachesDagroot appRelayed aveHops aveHopsPackets aveLatency aveQueueDelay cellsNotGiven chargeConsumed collidedTxs cycle droppedAppFailedEnqueue droppedMacRetries droppedNoRoute droppedNoTxCells droppedQueueFull effectiveCollidedTxs numRandomSelections numReqCells numRx numRxCells numTx numTxCells otfAdd otfRemove probableCollisions rplChurnParentSet rplChurnPrefParent rplChurnRank rplRxDIO rplTxDIO runNum rxBroadcast scheduleCollisions thReqCells topRxRelocatedCells topTxRelocatedBundles topTxRelocatedCells txBroadcast txQueueFill
+      0     0            0                 0          0       0              0          0             0             0              0           0     0                       0                 0              0                0                0                    0                   0           0     0          0     0          0      0         0                  0                 0                  0            0        0        0      0           0                  0          0                   0                     0                   0           0           0
+      0     0            0                 0          0       0             68          0             0             0              0           0     1                       0                 0              0                0                0                    0                   0           0     0          0     0          0      0         0                  0                61                 14            3      140       30      0           0                  0          0                   0                     0                   0           0           0
+      0     0            0                 0          0       0             68          0             0             0              0           0     2                       0                 0              0                0                0                    0                   0           0     0          0     0          0      0         0                  0                 0                  0            0        0        0      0           0                  0          0                   0                     0                   0           0           0
+      0     0            0                 0          0       0             68          0             0             0              0           0     3                       0                 0              0                0                0                    0                   0           0     0          0     0          0      0         0                  0                 0                  0            0        0        0      0           0                  0          0                   0                     0                   0           0           0
+      0     0            0                 0          0       0             68          0             0             0              0           0     4                       0                 0              0                0                0                    0                   0           0     0          0     0          0      0         0                  0                 0                  0            0        0        0      0           0                  0          0                   0                     0                   0           0           0
+      0     0            0                 0          0       0             68          0             0             0              0           0     5                       0                 0              0                0                0                    0                   0           0     0          0     0          0      0         0                  0                 0                  0            0        0        0      0           0                  0          0                   0                     0                   0           0           0
+      0     0            0                 0          0       0             67          0             0             0              0           0     6                       0                 0              0                0                0                    0                   0           0     0          0     0          0      0         0                  0                 2                 28            0      140       30      0           0                  0          0                   0                     0                   0           0           0
+      0     0            0                 0          0       0             67          0             0             0              0           0     7                       0                 0              0                0                0                    0                   0           0     0          0     0          0      0         0                  0                 0                  0            0        0        0      0           0                  0          0                   0                     0                   0           0           0
+      0     0            0                 0          0       0             67          0             0             0              0           0     8                       0                 0              0                0                0                    0                   0           0     0          0     0          0      0         0                  0                 0                  0            0        0        0      0           0                  0          0                   0                     0                   0           0           0
+      0     0            0                 0          0       0             67          0             0             0              0           0     9                       0                 0              0                0                0                    0                   0           0     0          0     0          0      0         0                  0                 0                  0            0        0        0      0           0                  0          0                   0                     0                   0           0           0
+      0     0            0                 0          0       0             67          0             0             0              0           0    10                       0                 0              0                0                0                    0                   0           0     0          0     0          0      0         0                  0                 0                  0            0        0        0      0           0                  0          0                   0                     0                   0           0           0
+      0     0            0                 0          0       0             67          0             0             0              0           0    11                       0                 0              0                0                0                    0                   0           0     0          0     0          0      0         0                  0                 0                 28            0      140       30      0           0                  0          0                   0                     0                   0           0           0
+      0     0            0                 0          0       0             67          0             0             0         24.600           0    12                       0                 0              0                0                0                    0                   3           0     0          3     0          3      3         0                  0                 0                  0            0        0        0      0           0                  0          0                   0                     0                   0           0           0

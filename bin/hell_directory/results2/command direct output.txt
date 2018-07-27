@@ -1,0 +1,1682 @@
+
+C:\Users\mojtaba\Desktop\fresh\bin\hell_directory>python distro_simulate.py --simNum 1
+QUELL: simulation identity: 0, PER: 0.9216, pktPeriod:5, squareSide: 1, numMotes: 10
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 0
+Drops by propagation 8
+Broadcast received 0
+Broadcast sent 0
+TX total 102
+RX total 94
+PER 0.921568627451
+simulation ended after 1s.
+
+OF0: simulation identity: 0, PER: 0.9216, pktPeriod:5, squareSide: 1, numMotes: 10
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 0
+Drops by propagation 13
+Broadcast received 0
+Broadcast sent 0
+TX total 91
+RX total 78
+PER 0.857142857143
+simulation ended after 2s.
+
+QUELL: simulation identity: 1, PER: 0.9144, pktPeriod:1, squareSide: 1, numMotes: 10
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 0
+Drops by propagation 35
+Broadcast received 0
+Broadcast sent 0
+TX total 409
+RX total 374
+PER 0.914425427873
+simulation ended after 1s.
+
+OF0: simulation identity: 1, PER: 0.9144, pktPeriod:1, squareSide: 1, numMotes: 10
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 6
+Drops by propagation 32
+Broadcast received 0
+Broadcast sent 0
+TX total 435
+RX total 397
+PER 0.912643678161
+simulation ended after 1s.
+
+QUELL: simulation identity: 2, PER: 0.9041, pktPeriod:0.5, squareSide: 1, numMotes: 10
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 6
+Drops by propagation 60
+Broadcast received 0
+Broadcast sent 0
+TX total 688
+RX total 622
+PER 0.904069767442
+simulation ended after 1s.
+
+OF0: simulation identity: 2, PER: 0.9041, pktPeriod:0.5, squareSide: 1, numMotes: 10
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 4
+Drops by propagation 63
+Broadcast received 0
+Broadcast sent 0
+TX total 664
+RX total 597
+PER 0.899096385542
+simulation ended after 1s.
+
+QUELL: simulation identity: 3, PER: 0.8847, pktPeriod:0.1, squareSide: 1, numMotes: 10
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 68
+Drops by propagation 93
+Broadcast received 0
+Broadcast sent 0
+TX total 1396
+RX total 1235
+PER 0.884670487106
+simulation ended after 1s.
+
+OF0: simulation identity: 3, PER: 0.8847, pktPeriod:0.1, squareSide: 1, numMotes: 10
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 34
+Drops by propagation 127
+Broadcast received 0
+Broadcast sent 0
+TX total 1577
+RX total 1416
+PER 0.89790741915
+simulation ended after 1s.
+
+QUELL: simulation identity: 4, PER: 0.8857, pktPeriod:0.05, squareSide: 1, numMotes: 10
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 62
+Drops by propagation 135
+Broadcast received 0
+Broadcast sent 0
+TX total 1724
+RX total 1527
+PER 0.885730858469
+simulation ended after 1s.
+
+OF0: simulation identity: 4, PER: 0.8857, pktPeriod:0.05, squareSide: 1, numMotes: 10
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 30
+Drops by propagation 162
+Broadcast received 0
+Broadcast sent 0
+TX total 1799
+RX total 1607
+PER 0.893274041134
+simulation ended after 1s.
+
+QUELL: simulation identity: 5, PER: 0.891, pktPeriod:0.01, squareSide: 1, numMotes: 10
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 45
+Drops by propagation 158
+Broadcast received 0
+Broadcast sent 0
+TX total 1862
+RX total 1659
+PER 0.890977443609
+simulation ended after 2s.
+
+OF0: simulation identity: 5, PER: 0.891, pktPeriod:0.01, squareSide: 1, numMotes: 10
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 46
+Drops by propagation 204
+Broadcast received 0
+Broadcast sent 0
+TX total 2073
+RX total 1823
+PER 0.879401833092
+simulation ended after 2s.
+
+QUELL: simulation identity: 6, PER: 0.905, pktPeriod:5, squareSide: 1, numMotes: 20
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 0
+Drops by propagation 23
+Broadcast received 0
+Broadcast sent 0
+TX total 242
+RX total 219
+PER 0.904958677686
+simulation ended after 2s.
+
+OF0: simulation identity: 6, PER: 0.905, pktPeriod:5, squareSide: 1, numMotes: 20
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 2
+Drops by propagation 26
+Broadcast received 0
+Broadcast sent 0
+TX total 263
+RX total 235
+PER 0.893536121673
+simulation ended after 2s.
+
+QUELL: simulation identity: 7, PER: 0.9111, pktPeriod:1, squareSide: 1, numMotes: 20
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 2
+Drops by propagation 82
+Broadcast received 0
+Broadcast sent 0
+TX total 945
+RX total 861
+PER 0.911111111111
+simulation ended after 2s.
+
+OF0: simulation identity: 7, PER: 0.9111, pktPeriod:1, squareSide: 1, numMotes: 20
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 13
+Drops by propagation 79
+Broadcast received 0
+Broadcast sent 0
+TX total 1075
+RX total 983
+PER 0.914418604651
+simulation ended after 2s.
+
+QUELL: simulation identity: 8, PER: 0.9287, pktPeriod:0.5, squareSide: 1, numMotes: 20
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 18
+Drops by propagation 79
+Broadcast received 0
+Broadcast sent 0
+TX total 1361
+RX total 1264
+PER 0.928728875827
+simulation ended after 2s.
+
+OF0: simulation identity: 8, PER: 0.9287, pktPeriod:0.5, squareSide: 1, numMotes: 20
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 14
+Drops by propagation 110
+Broadcast received 0
+Broadcast sent 0
+TX total 1672
+RX total 1548
+PER 0.925837320574
+simulation ended after 2s.
+
+QUELL: simulation identity: 9, PER: 0.9017, pktPeriod:0.1, squareSide: 1, numMotes: 20
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 137
+Drops by propagation 189
+Broadcast received 0
+Broadcast sent 0
+TX total 3315
+RX total 2989
+PER 0.901659125189
+simulation ended after 2s.
+
+OF0: simulation identity: 9, PER: 0.9017, pktPeriod:0.1, squareSide: 1, numMotes: 20
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 157
+Drops by propagation 279
+Broadcast received 0
+Broadcast sent 0
+TX total 3859
+RX total 3424
+PER 0.887276496502
+simulation ended after 2s.
+
+QUELL: simulation identity: 10, PER: 0.8722, pktPeriod:0.05, squareSide: 1, numMotes: 20
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 260
+Drops by propagation 216
+Broadcast received 0
+Broadcast sent 0
+TX total 3726
+RX total 3250
+PER 0.872249060655
+simulation ended after 3s.
+
+OF0: simulation identity: 10, PER: 0.8722, pktPeriod:0.05, squareSide: 1, numMotes: 20
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 403
+Drops by propagation 285
+Broadcast received 0
+Broadcast sent 0
+TX total 4029
+RX total 3342
+PER 0.82948622487
+simulation ended after 3s.
+
+QUELL: simulation identity: 11, PER: 0.8616, pktPeriod:0.01, squareSide: 1, numMotes: 20
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 343
+Drops by propagation 212
+Broadcast received 0
+Broadcast sent 0
+TX total 4010
+RX total 3455
+PER 0.861596009975
+simulation ended after 4s.
+
+OF0: simulation identity: 11, PER: 0.8616, pktPeriod:0.01, squareSide: 1, numMotes: 20
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 793
+Drops by propagation 324
+Broadcast received 0
+Broadcast sent 0
+TX total 5208
+RX total 4095
+PER 0.786290322581
+simulation ended after 5s.
+
+QUELL: simulation identity: 12, PER: 0.9113, pktPeriod:5, squareSide: 1, numMotes: 30
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 0
+Drops by propagation 36
+Broadcast received 0
+Broadcast sent 0
+TX total 406
+RX total 370
+PER 0.911330049261
+simulation ended after 3s.
+
+OF0: simulation identity: 12, PER: 0.9113, pktPeriod:5, squareSide: 1, numMotes: 30
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 0
+Drops by propagation 29
+Broadcast received 0
+Broadcast sent 0
+TX total 379
+RX total 350
+PER 0.923482849604
+simulation ended after 2s.
+
+QUELL: simulation identity: 13, PER: 0.8712, pktPeriod:1, squareSide: 1, numMotes: 30
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 54
+Drops by propagation 128
+Broadcast received 0
+Broadcast sent 0
+TX total 1413
+RX total 1231
+PER 0.871196036801
+simulation ended after 3s.
+
+OF0: simulation identity: 13, PER: 0.8712, pktPeriod:1, squareSide: 1, numMotes: 30
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 15
+Drops by propagation 100
+Broadcast received 0
+Broadcast sent 0
+TX total 1375
+RX total 1260
+PER 0.916363636364
+simulation ended after 3s.
+
+QUELL: simulation identity: 14, PER: 0.8943, pktPeriod:0.5, squareSide: 1, numMotes: 30
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 51
+Drops by propagation 178
+Broadcast received 0
+Broadcast sent 0
+TX total 2166
+RX total 1937
+PER 0.894275161588
+simulation ended after 3s.
+
+OF0: simulation identity: 14, PER: 0.8943, pktPeriod:0.5, squareSide: 1, numMotes: 30
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 76
+Drops by propagation 188
+Broadcast received 0
+Broadcast sent 0
+TX total 2619
+RX total 2355
+PER 0.899198167239
+simulation ended after 2s.
+
+QUELL: simulation identity: 15, PER: 0.8405, pktPeriod:0.1, squareSide: 1, numMotes: 30
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 468
+Drops by propagation 295
+Broadcast received 0
+Broadcast sent 0
+TX total 4777
+RX total 4015
+PER 0.840485660456
+simulation ended after 4s.
+
+OF0: simulation identity: 15, PER: 0.8405, pktPeriod:0.1, squareSide: 1, numMotes: 30
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 687
+Drops by propagation 407
+Broadcast received 0
+Broadcast sent 0
+TX total 5970
+RX total 4879
+PER 0.817252931323
+simulation ended after 4s.
+
+QUELL: simulation identity: 16, PER: 0.8357, pktPeriod:0.05, squareSide: 1, numMotes: 30
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 569
+Drops by propagation 321
+Broadcast received 0
+Broadcast sent 0
+TX total 5406
+RX total 4518
+PER 0.835738068812
+simulation ended after 4s.
+
+OF0: simulation identity: 16, PER: 0.8357, pktPeriod:0.05, squareSide: 1, numMotes: 30
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 659
+Drops by propagation 367
+Broadcast received 0
+Broadcast sent 0
+TX total 6063
+RX total 5038
+PER 0.830941777998
+simulation ended after 4s.
+
+QUELL: simulation identity: 17, PER: 0.8442, pktPeriod:0.01, squareSide: 1, numMotes: 30
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 622
+Drops by propagation 313
+Broadcast received 0
+Broadcast sent 0
+TX total 5995
+RX total 5061
+PER 0.844203502919
+simulation ended after 8s.
+
+OF0: simulation identity: 17, PER: 0.8442, pktPeriod:0.01, squareSide: 1, numMotes: 30
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 906
+Drops by propagation 398
+Broadcast received 0
+Broadcast sent 0
+TX total 6746
+RX total 5444
+PER 0.806996738808
+simulation ended after 8s.
+
+QUELL: simulation identity: 18, PER: 0.8731, pktPeriod:5, squareSide: 1, numMotes: 40
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 2
+Drops by propagation 55
+Broadcast received 0
+Broadcast sent 0
+TX total 449
+RX total 392
+PER 0.873051224944
+simulation ended after 4s.
+
+OF0: simulation identity: 18, PER: 0.8731, pktPeriod:5, squareSide: 1, numMotes: 40
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 4
+Drops by propagation 41
+Broadcast received 0
+Broadcast sent 0
+TX total 423
+RX total 378
+PER 0.893617021277
+simulation ended after 3s.
+
+QUELL: simulation identity: 19, PER: 0.8633, pktPeriod:1, squareSide: 1, numMotes: 40
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 66
+Drops by propagation 169
+Broadcast received 0
+Broadcast sent 0
+TX total 1719
+RX total 1484
+PER 0.863292611984
+simulation ended after 4s.
+
+OF0: simulation identity: 19, PER: 0.8633, pktPeriod:1, squareSide: 1, numMotes: 40
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 56
+Drops by propagation 194
+Broadcast received 0
+Broadcast sent 0
+TX total 1944
+RX total 1694
+PER 0.871399176955
+simulation ended after 3s.
+
+QUELL: simulation identity: 20, PER: 0.856, pktPeriod:0.5, squareSide: 1, numMotes: 40
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 139
+Drops by propagation 256
+Broadcast received 0
+Broadcast sent 0
+TX total 2744
+RX total 2349
+PER 0.856049562682
+simulation ended after 4s.
+
+OF0: simulation identity: 20, PER: 0.856, pktPeriod:0.5, squareSide: 1, numMotes: 40
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 158
+Drops by propagation 322
+Broadcast received 0
+Broadcast sent 0
+TX total 3222
+RX total 2742
+PER 0.851024208566
+simulation ended after 4s.
+
+QUELL: simulation identity: 21, PER: 0.8273, pktPeriod:0.1, squareSide: 1, numMotes: 40
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 678
+Drops by propagation 408
+Broadcast received 0
+Broadcast sent 0
+TX total 6289
+RX total 5203
+PER 0.827317538559
+simulation ended after 5s.
+
+OF0: simulation identity: 21, PER: 0.8273, pktPeriod:0.1, squareSide: 1, numMotes: 40
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 870
+Drops by propagation 497
+Broadcast received 0
+Broadcast sent 0
+TX total 7211
+RX total 5844
+PER 0.810428511996
+simulation ended after 5s.
+
+QUELL: simulation identity: 22, PER: 0.7977, pktPeriod:0.05, squareSide: 1, numMotes: 40
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 1037
+Drops by propagation 416
+Broadcast received 0
+Broadcast sent 0
+TX total 7174
+RX total 5723
+PER 0.797741845553
+simulation ended after 7s.
+
+OF0: simulation identity: 22, PER: 0.7977, pktPeriod:0.05, squareSide: 1, numMotes: 40
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 1485
+Drops by propagation 500
+Broadcast received 0
+Broadcast sent 0
+TX total 8587
+RX total 6603
+PER 0.768953068592
+simulation ended after 6s.
+
+QUELL: simulation identity: 23, PER: 0.7779, pktPeriod:0.01, squareSide: 1, numMotes: 40
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 1184
+Drops by propagation 495
+Broadcast received 0
+Broadcast sent 0
+TX total 7547
+RX total 5871
+PER 0.777925003313
+simulation ended after 12s.
+
+OF0: simulation identity: 23, PER: 0.7779, pktPeriod:0.01, squareSide: 1, numMotes: 40
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 1592
+Drops by propagation 503
+Broadcast received 0
+Broadcast sent 0
+TX total 8153
+RX total 6061
+PER 0.743407334723
+simulation ended after 11s.
+
+QUELL: simulation identity: 24, PER: 0.8985, pktPeriod:5, squareSide: 1, numMotes: 50
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 2
+Drops by propagation 51
+Broadcast received 0
+Broadcast sent 0
+TX total 522
+RX total 469
+PER 0.89846743295
+simulation ended after 6s.
+
+OF0: simulation identity: 24, PER: 0.8985, pktPeriod:5, squareSide: 1, numMotes: 50
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 13
+Drops by propagation 46
+Broadcast received 0
+Broadcast sent 0
+TX total 516
+RX total 458
+PER 0.887596899225
+simulation ended after 4s.
+
+QUELL: simulation identity: 25, PER: 0.8742, pktPeriod:1, squareSide: 1, numMotes: 50
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 89
+Drops by propagation 193
+Broadcast received 0
+Broadcast sent 0
+TX total 2233
+RX total 1952
+PER 0.874160322436
+simulation ended after 6s.
+
+OF0: simulation identity: 25, PER: 0.8742, pktPeriod:1, squareSide: 1, numMotes: 50
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 85
+Drops by propagation 203
+Broadcast received 0
+Broadcast sent 0
+TX total 2350
+RX total 2062
+PER 0.877446808511
+simulation ended after 5s.
+
+QUELL: simulation identity: 26, PER: 0.8681, pktPeriod:0.5, squareSide: 1, numMotes: 50
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 209
+Drops by propagation 292
+Broadcast received 0
+Broadcast sent 0
+TX total 3797
+RX total 3296
+PER 0.868053726626
+simulation ended after 6s.
+
+OF0: simulation identity: 26, PER: 0.8681, pktPeriod:0.5, squareSide: 1, numMotes: 50
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 219
+Drops by propagation 338
+Broadcast received 0
+Broadcast sent 0
+TX total 4026
+RX total 3469
+PER 0.861649279682
+simulation ended after 5s.
+
+QUELL: simulation identity: 27, PER: 0.7989, pktPeriod:0.1, squareSide: 1, numMotes: 50
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 1036
+Drops by propagation 417
+Broadcast received 0
+Broadcast sent 0
+TX total 7222
+RX total 5770
+PER 0.798947659928
+simulation ended after 7s.
+
+OF0: simulation identity: 27, PER: 0.7989, pktPeriod:0.1, squareSide: 1, numMotes: 50
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 1602
+Drops by propagation 605
+Broadcast received 0
+Broadcast sent 0
+TX total 9532
+RX total 7326
+PER 0.768569030634
+simulation ended after 7s.
+
+QUELL: simulation identity: 28, PER: 0.7674, pktPeriod:0.05, squareSide: 1, numMotes: 50
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 1477
+Drops by propagation 486
+Broadcast received 0
+Broadcast sent 0
+TX total 8431
+RX total 6470
+PER 0.767406001661
+simulation ended after 9s.
+
+OF0: simulation identity: 28, PER: 0.7674, pktPeriod:0.05, squareSide: 1, numMotes: 50
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 1960
+Drops by propagation 557
+Broadcast received 0
+Broadcast sent 0
+TX total 9802
+RX total 7285
+PER 0.743215670271
+simulation ended after 8s.
+
+QUELL: simulation identity: 29, PER: 0.7679, pktPeriod:0.01, squareSide: 1, numMotes: 50
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 1783
+Drops by propagation 477
+Broadcast received 0
+Broadcast sent 0
+TX total 9708
+RX total 7455
+PER 0.767923362176
+simulation ended after 18s.
+
+OF0: simulation identity: 29, PER: 0.7679, pktPeriod:0.01, squareSide: 1, numMotes: 50
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 2627
+Drops by propagation 589
+Broadcast received 0
+Broadcast sent 0
+TX total 10877
+RX total 7670
+PER 0.705157672152
+simulation ended after 19s.
+
+QUELL: simulation identity: 30, PER: 0.8908, pktPeriod:5, squareSide: 1, numMotes: 60
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 8
+Drops by propagation 62
+Broadcast received 0
+Broadcast sent 0
+TX total 641
+RX total 571
+PER 0.890795631825
+simulation ended after 8s.
+
+OF0: simulation identity: 30, PER: 0.8908, pktPeriod:5, squareSide: 1, numMotes: 60
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 7
+Drops by propagation 48
+Broadcast received 0
+Broadcast sent 0
+TX total 618
+RX total 563
+PER 0.911003236246
+simulation ended after 6s.
+
+QUELL: simulation identity: 31, PER: 0.8559, pktPeriod:1, squareSide: 1, numMotes: 60
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 126
+Drops by propagation 276
+Broadcast received 0
+Broadcast sent 0
+TX total 2782
+RX total 2381
+PER 0.855859094177
+simulation ended after 8s.
+
+OF0: simulation identity: 31, PER: 0.8559, pktPeriod:1, squareSide: 1, numMotes: 60
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 121
+Drops by propagation 283
+Broadcast received 0
+Broadcast sent 0
+TX total 2854
+RX total 2450
+PER 0.858444288718
+simulation ended after 7s.
+
+QUELL: simulation identity: 32, PER: 0.845, pktPeriod:0.5, squareSide: 1, numMotes: 60
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 303
+Drops by propagation 444
+Broadcast received 0
+Broadcast sent 0
+TX total 4818
+RX total 4071
+PER 0.84495641345
+simulation ended after 9s.
+
+OF0: simulation identity: 32, PER: 0.845, pktPeriod:0.5, squareSide: 1, numMotes: 60
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 304
+Drops by propagation 401
+Broadcast received 0
+Broadcast sent 0
+TX total 4840
+RX total 4135
+PER 0.854338842975
+simulation ended after 7s.
+
+QUELL: simulation identity: 33, PER: 0.7572, pktPeriod:0.1, squareSide: 1, numMotes: 60
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 1736
+Drops by propagation 526
+Broadcast received 0
+Broadcast sent 0
+TX total 9307
+RX total 7047
+PER 0.757172021059
+simulation ended after 11s.
+
+OF0: simulation identity: 33, PER: 0.7572, pktPeriod:0.1, squareSide: 1, numMotes: 60
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 2181
+Drops by propagation 715
+Broadcast received 0
+Broadcast sent 0
+TX total 10564
+RX total 7669
+PER 0.725956077243
+simulation ended after 9s.
+
+QUELL: simulation identity: 34, PER: 0.756, pktPeriod:0.05, squareSide: 1, numMotes: 60
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 1761
+Drops by propagation 575
+Broadcast received 0
+Broadcast sent 0
+TX total 9566
+RX total 7232
+PER 0.756010871838
+simulation ended after 12s.
+
+OF0: simulation identity: 34, PER: 0.756, pktPeriod:0.05, squareSide: 1, numMotes: 60
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 2644
+Drops by propagation 645
+Broadcast received 0
+Broadcast sent 0
+TX total 11396
+RX total 8110
+PER 0.711653211653
+simulation ended after 11s.
+
+QUELL: simulation identity: 35, PER: 0.6998, pktPeriod:0.01, squareSide: 1, numMotes: 60
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 2647
+Drops by propagation 602
+Broadcast received 0
+Broadcast sent 0
+TX total 10810
+RX total 7565
+PER 0.699814986124
+simulation ended after 24s.
+
+OF0: simulation identity: 35, PER: 0.6998, pktPeriod:0.01, squareSide: 1, numMotes: 60
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 3746
+Drops by propagation 683
+Broadcast received 0
+Broadcast sent 0
+TX total 12867
+RX total 8443
+PER 0.6561747105
+simulation ended after 24s.
+
+QUELL: simulation identity: 36, PER: 0.8858, pktPeriod:5, squareSide: 1, numMotes: 70
+parameters 1/1, run 1/1
+
+Elapsed time: 6.831
+Drops by collision 18
+Drops by propagation 65
+Broadcast received 0
+Broadcast sent 0
+TX total 727
+RX total 644
+PER 0.88583218707
+simulation ended after 12s.
+
+OF0: simulation identity: 36, PER: 0.8858, pktPeriod:5, squareSide: 1, numMotes: 70
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 21
+Drops by propagation 66
+Broadcast received 0
+Broadcast sent 0
+TX total 742
+RX total 655
+PER 0.882749326146
+simulation ended after 8s.
+
+QUELL: simulation identity: 37, PER: 0.849, pktPeriod:1, squareSide: 1, numMotes: 70
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 195
+Drops by propagation 299
+Broadcast received 0
+Broadcast sent 0
+TX total 3264
+RX total 2771
+PER 0.848958333333
+simulation ended after 12s.
+
+OF0: simulation identity: 37, PER: 0.849, pktPeriod:1, squareSide: 1, numMotes: 70
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 243
+Drops by propagation 324
+Broadcast received 0
+Broadcast sent 0
+TX total 3393
+RX total 2826
+PER 0.832891246684
+simulation ended after 9s.
+
+QUELL: simulation identity: 38, PER: 0.8196, pktPeriod:0.5, squareSide: 1, numMotes: 70
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 651
+Drops by propagation 386
+Broadcast received 0
+Broadcast sent 0
+TX total 5747
+RX total 4710
+PER 0.819558030277
+simulation ended after 12s.
+
+OF0: simulation identity: 38, PER: 0.8196, pktPeriod:0.5, squareSide: 1, numMotes: 70
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 698
+Drops by propagation 441
+Broadcast received 0
+Broadcast sent 0
+TX total 5749
+RX total 4610
+PER 0.80187858758
+simulation ended after 9s.
+
+QUELL: simulation identity: 39, PER: 0.7552, pktPeriod:0.1, squareSide: 1, numMotes: 70
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 2035
+Drops by propagation 480
+Broadcast received 0
+Broadcast sent 0
+TX total 10275
+RX total 7760
+PER 0.755231143552
+simulation ended after 14s.
+
+OF0: simulation identity: 39, PER: 0.7552, pktPeriod:0.1, squareSide: 1, numMotes: 70
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 2822
+Drops by propagation 694
+Broadcast received 0
+Broadcast sent 0
+TX total 12199
+RX total 8683
+PER 0.71177965407
+simulation ended after 12s.
+
+QUELL: simulation identity: 40, PER: 0.7407, pktPeriod:0.05, squareSide: 1, numMotes: 70
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 2197
+Drops by propagation 548
+Broadcast received 0
+Broadcast sent 0
+TX total 10571
+RX total 7830
+PER 0.740705704285
+simulation ended after 17s.
+
+OF0: simulation identity: 40, PER: 0.7407, pktPeriod:0.05, squareSide: 1, numMotes: 70
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 3626
+Drops by propagation 637
+Broadcast received 0
+Broadcast sent 0
+TX total 13315
+RX total 9053
+PER 0.67990987608
+simulation ended after 15s.
+
+QUELL: simulation identity: 41, PER: 0.7084, pktPeriod:0.01, squareSide: 1, numMotes: 70
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 2968
+Drops by propagation 585
+Broadcast received 0
+Broadcast sent 0
+TX total 12179
+RX total 8628
+PER 0.708432547828
+simulation ended after 32s.
+
+OF0: simulation identity: 41, PER: 0.7084, pktPeriod:0.01, squareSide: 1, numMotes: 70
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 3983
+Drops by propagation 649
+Broadcast received 0
+Broadcast sent 0
+TX total 13699
+RX total 9072
+PER 0.662238119571
+simulation ended after 30s.
+
+QUELL: simulation identity: 42, PER: 0.9005, pktPeriod:5, squareSide: 1, numMotes: 80
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 16
+Drops by propagation 65
+Broadcast received 0
+Broadcast sent 0
+TX total 814
+RX total 733
+PER 0.900491400491
+simulation ended after 14s.
+
+OF0: simulation identity: 42, PER: 0.9005, pktPeriod:5, squareSide: 1, numMotes: 80
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 16
+Drops by propagation 79
+Broadcast received 0
+Broadcast sent 0
+TX total 863
+RX total 768
+PER 0.889918887601
+simulation ended after 10s.
+
+QUELL: simulation identity: 43, PER: 0.8525, pktPeriod:1, squareSide: 1, numMotes: 80
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 277
+Drops by propagation 310
+Broadcast received 0
+Broadcast sent 0
+TX total 3973
+RX total 3387
+PER 0.852504404732
+simulation ended after 15s.
+
+OF0: simulation identity: 43, PER: 0.8525, pktPeriod:1, squareSide: 1, numMotes: 80
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 315
+Drops by propagation 315
+Broadcast received 0
+Broadcast sent 0
+TX total 4008
+RX total 3378
+PER 0.842814371257
+simulation ended after 11s.
+
+QUELL: simulation identity: 44, PER: 0.8149, pktPeriod:0.5, squareSide: 1, numMotes: 80
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 734
+Drops by propagation 482
+Broadcast received 0
+Broadcast sent 0
+TX total 6563
+RX total 5348
+PER 0.814871247905
+simulation ended after 15s.
+
+OF0: simulation identity: 44, PER: 0.8149, pktPeriod:0.5, squareSide: 1, numMotes: 80
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 957
+Drops by propagation 477
+Broadcast received 0
+Broadcast sent 0
+TX total 6687
+RX total 5254
+PER 0.785703604008
+simulation ended after 11s.
+
+QUELL: simulation identity: 45, PER: 0.7394, pktPeriod:0.1, squareSide: 1, numMotes: 80
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 2560
+Drops by propagation 625
+Broadcast received 0
+Broadcast sent 0
+TX total 12212
+RX total 9030
+PER 0.739436619718
+simulation ended after 17s.
+
+OF0: simulation identity: 45, PER: 0.7394, pktPeriod:0.1, squareSide: 1, numMotes: 80
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 3653
+Drops by propagation 832
+Broadcast received 0
+Broadcast sent 0
+TX total 14224
+RX total 9741
+PER 0.684828458943
+simulation ended after 15s.
+
+QUELL: simulation identity: 46, PER: 0.7255, pktPeriod:0.05, squareSide: 1, numMotes: 80
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 2941
+Drops by propagation 596
+Broadcast received 0
+Broadcast sent 0
+TX total 12879
+RX total 9344
+PER 0.72552216787
+simulation ended after 20s.
+
+OF0: simulation identity: 46, PER: 0.7255, pktPeriod:0.05, squareSide: 1, numMotes: 80
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 3980
+Drops by propagation 726
+Broadcast received 0
+Broadcast sent 0
+TX total 14335
+RX total 9633
+PER 0.67199162888
+simulation ended after 18s.
+
+QUELL: simulation identity: 47, PER: 0.691, pktPeriod:0.01, squareSide: 1, numMotes: 80
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 3536
+Drops by propagation 523
+Broadcast received 0
+Broadcast sent 0
+TX total 13131
+RX total 9074
+PER 0.691036478562
+simulation ended after 41s.
+
+OF0: simulation identity: 47, PER: 0.691, pktPeriod:0.01, squareSide: 1, numMotes: 80
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 5086
+Drops by propagation 693
+Broadcast received 0
+Broadcast sent 0
+TX total 15769
+RX total 9993
+PER 0.633711712854
+simulation ended after 38s.
+
+QUELL: simulation identity: 48, PER: 0.8598, pktPeriod:5, squareSide: 1, numMotes: 90
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 34
+Drops by propagation 104
+Broadcast received 0
+Broadcast sent 0
+TX total 984
+RX total 846
+PER 0.859756097561
+simulation ended after 18s.
+
+OF0: simulation identity: 48, PER: 0.8598, pktPeriod:5, squareSide: 1, numMotes: 90
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 24
+Drops by propagation 74
+Broadcast received 0
+Broadcast sent 0
+TX total 907
+RX total 809
+PER 0.891951488423
+simulation ended after 12s.
+
+QUELL: simulation identity: 49, PER: 0.8482, pktPeriod:1, squareSide: 1, numMotes: 90
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 306
+Drops by propagation 314
+Broadcast received 0
+Broadcast sent 0
+TX total 4078
+RX total 3459
+PER 0.848209906817
+simulation ended after 18s.
+
+OF0: simulation identity: 49, PER: 0.8482, pktPeriod:1, squareSide: 1, numMotes: 90
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 284
+Drops by propagation 355
+Broadcast received 0
+Broadcast sent 0
+TX total 4303
+RX total 3664
+PER 0.851498954218
+simulation ended after 13s.
+
+QUELL: simulation identity: 50, PER: 0.7907, pktPeriod:0.5, squareSide: 1, numMotes: 90
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 991
+Drops by propagation 536
+Broadcast received 0
+Broadcast sent 0
+TX total 7286
+RX total 5761
+PER 0.790694482569
+simulation ended after 18s.
+
+OF0: simulation identity: 50, PER: 0.7907, pktPeriod:0.5, squareSide: 1, numMotes: 90
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 1106
+Drops by propagation 526
+Broadcast received 0
+Broadcast sent 0
+TX total 7391
+RX total 5759
+PER 0.779190907861
+simulation ended after 14s.
+
+QUELL: simulation identity: 51, PER: 0.735, pktPeriod:0.1, squareSide: 1, numMotes: 90
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 2860
+Drops by propagation 593
+Broadcast received 0
+Broadcast sent 0
+TX total 13021
+RX total 9571
+PER 0.735043391445
+simulation ended after 22s.
+
+OF0: simulation identity: 51, PER: 0.735, pktPeriod:0.1, squareSide: 1, numMotes: 90
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 4381
+Drops by propagation 713
+Broadcast received 0
+Broadcast sent 0
+TX total 15273
+RX total 10182
+PER 0.666666666667
+simulation ended after 18s.
+
+QUELL: simulation identity: 52, PER: 0.7242, pktPeriod:0.05, squareSide: 1, numMotes: 90
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 3251
+Drops by propagation 621
+Broadcast received 0
+Broadcast sent 0
+TX total 14005
+RX total 10142
+PER 0.724169939307
+simulation ended after 25s.
+
+OF0: simulation identity: 52, PER: 0.7242, pktPeriod:0.05, squareSide: 1, numMotes: 90
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 4742
+Drops by propagation 692
+Broadcast received 0
+Broadcast sent 0
+TX total 16055
+RX total 10623
+PER 0.661663033323
+simulation ended after 22s.
+
+QUELL: simulation identity: 53, PER: 0.7038, pktPeriod:0.01, squareSide: 1, numMotes: 90
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 3941
+Drops by propagation 574
+Broadcast received 0
+Broadcast sent 0
+TX total 15231
+RX total 10720
+PER 0.703827719782
+simulation ended after 50s.
+
+OF0: simulation identity: 53, PER: 0.7038, pktPeriod:0.01, squareSide: 1, numMotes: 90
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 6060
+Drops by propagation 732
+Broadcast received 0
+Broadcast sent 0
+TX total 18116
+RX total 11325
+PER 0.625137999558
+simulation ended after 47s.
+
+QUELL: simulation identity: 54, PER: 0.8967, pktPeriod:5, squareSide: 1, numMotes: 100
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 22
+Drops by propagation 86
+Broadcast received 0
+Broadcast sent 0
+TX total 1045
+RX total 937
+PER 0.896650717703
+simulation ended after 21s.
+
+OF0: simulation identity: 54, PER: 0.8967, pktPeriod:5, squareSide: 1, numMotes: 100
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 25
+Drops by propagation 89
+Broadcast received 0
+Broadcast sent 0
+TX total 1047
+RX total 933
+PER 0.89111747851
+simulation ended after 15s.
+
+QUELL: simulation identity: 55, PER: 0.8325, pktPeriod:1, squareSide: 1, numMotes: 100
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 455
+Drops by propagation 363
+Broadcast received 0
+Broadcast sent 0
+TX total 4885
+RX total 4067
+PER 0.832548618219
+simulation ended after 21s.
+
+OF0: simulation identity: 55, PER: 0.8325, pktPeriod:1, squareSide: 1, numMotes: 100
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 454
+Drops by propagation 361
+Broadcast received 0
+Broadcast sent 0
+TX total 4761
+RX total 3946
+PER 0.82881747532
+simulation ended after 15s.
+
+QUELL: simulation identity: 56, PER: 0.8091, pktPeriod:0.5, squareSide: 1, numMotes: 100
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 962
+Drops by propagation 488
+Broadcast received 0
+Broadcast sent 0
+TX total 7591
+RX total 6142
+PER 0.80911605849
+simulation ended after 21s.
+
+OF0: simulation identity: 56, PER: 0.8091, pktPeriod:0.5, squareSide: 1, numMotes: 100
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 1393
+Drops by propagation 560
+Broadcast received 0
+Broadcast sent 0
+TX total 8323
+RX total 6370
+PER 0.765349032801
+simulation ended after 16s.
+
+QUELL: simulation identity: 57, PER: 0.7219, pktPeriod:0.1, squareSide: 1, numMotes: 100
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 3393
+Drops by propagation 563
+Broadcast received 0
+Broadcast sent 0
+TX total 14226
+RX total 10270
+PER 0.721917615633
+simulation ended after 24s.
+
+OF0: simulation identity: 57, PER: 0.7219, pktPeriod:0.1, squareSide: 1, numMotes: 100
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 4542
+Drops by propagation 715
+Broadcast received 0
+Broadcast sent 0
+TX total 15805
+RX total 10551
+PER 0.667573552673
+simulation ended after 20s.
+
+QUELL: simulation identity: 58, PER: 0.7133, pktPeriod:0.05, squareSide: 1, numMotes: 100
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 3775
+Drops by propagation 598
+Broadcast received 0
+Broadcast sent 0
+TX total 15234
+RX total 10866
+PER 0.713272942103
+simulation ended after 29s.
+
+OF0: simulation identity: 58, PER: 0.7133, pktPeriod:0.05, squareSide: 1, numMotes: 100
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 5122
+Drops by propagation 752
+Broadcast received 0
+Broadcast sent 0
+TX total 17426
+RX total 11560
+PER 0.663376563755
+simulation ended after 24s.
+
+QUELL: simulation identity: 59, PER: 0.7042, pktPeriod:0.01, squareSide: 1, numMotes: 100
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 3906
+Drops by propagation 618
+Broadcast received 0
+Broadcast sent 0
+TX total 15283
+RX total 10762
+PER 0.704181116273
+simulation ended after 57s.
+
+OF0: simulation identity: 59, PER: 0.7042, pktPeriod:0.01, squareSide: 1, numMotes: 100
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 6398
+Drops by propagation 707
+Broadcast received 0
+Broadcast sent 0
+TX total 18098
+RX total 10995
+PER 0.607525693447
+simulation ended after 56s.
+
+QUELL: simulation identity: 60, PER: 0.8666, pktPeriod:5, squareSide: 1, numMotes: 110
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 52
+Drops by propagation 98
+Broadcast received 0
+Broadcast sent 0
+TX total 1117
+RX total 968
+PER 0.86660698299
+simulation ended after 26s.
+
+OF0: simulation identity: 60, PER: 0.8666, pktPeriod:5, squareSide: 1, numMotes: 110
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 29
+Drops by propagation 95
+Broadcast received 0
+Broadcast sent 0
+TX total 1180
+RX total 1056
+PER 0.894915254237
+simulation ended after 18s.
+
+QUELL: simulation identity: 61, PER: 0.8382, pktPeriod:1, squareSide: 1, numMotes: 110
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 475
+Drops by propagation 361
+Broadcast received 0
+Broadcast sent 0
+TX total 5166
+RX total 4330
+PER 0.838172667441
+simulation ended after 25s.
+
+OF0: simulation identity: 61, PER: 0.8382, pktPeriod:1, squareSide: 1, numMotes: 110
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 512
+Drops by propagation 383
+Broadcast received 0
+Broadcast sent 0
+TX total 5223
+RX total 4329
+PER 0.828834003446
+simulation ended after 19s.
+
+QUELL: simulation identity: 62, PER: 0.7761, pktPeriod:0.5, squareSide: 1, numMotes: 110
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 1402
+Drops by propagation 536
+Broadcast received 0
+Broadcast sent 0
+TX total 8646
+RX total 6710
+PER 0.776081424936
+simulation ended after 25s.
+
+OF0: simulation identity: 62, PER: 0.7761, pktPeriod:0.5, squareSide: 1, numMotes: 110
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 1247
+Drops by propagation 560
+Broadcast received 0
+Broadcast sent 0
+TX total 8622
+RX total 6816
+PER 0.790535838553
+simulation ended after 19s.
+
+QUELL: simulation identity: 63, PER: 0.7161, pktPeriod:0.1, squareSide: 1, numMotes: 110
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 3785
+Drops by propagation 622
+Broadcast received 0
+Broadcast sent 0
+TX total 15493
+RX total 11094
+PER 0.716065319822
+simulation ended after 30s.
+
+OF0: simulation identity: 63, PER: 0.7161, pktPeriod:0.1, squareSide: 1, numMotes: 110
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 5598
+Drops by propagation 757
+Broadcast received 0
+Broadcast sent 0
+TX total 18898
+RX total 12545
+PER 0.663826859985
+simulation ended after 25s.
+
+QUELL: simulation identity: 64, PER: 0.688, pktPeriod:0.05, squareSide: 1, numMotes: 110
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 4659
+Drops by propagation 613
+Broadcast received 0
+Broadcast sent 0
+TX total 16887
+RX total 11618
+PER 0.68798484041
+simulation ended after 35s.
+
+OF0: simulation identity: 64, PER: 0.688, pktPeriod:0.05, squareSide: 1, numMotes: 110
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 6723
+Drops by propagation 730
+Broadcast received 0
+Broadcast sent 0
+TX total 19584
+RX total 12140
+PER 0.61989379085
+simulation ended after 31s.
+
+QUELL: simulation identity: 65, PER: 0.6701, pktPeriod:0.01, squareSide: 1, numMotes: 110
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 5442
+Drops by propagation 533
+Broadcast received 0
+Broadcast sent 0
+TX total 18102
+RX total 12131
+PER 0.670146945089
+simulation ended after 71s.
+
+OF0: simulation identity: 65, PER: 0.6701, pktPeriod:0.01, squareSide: 1, numMotes: 110
+parameters 1/1, run 1/1
+Elapsed time: 6.831
+Drops by collision 7099
+Drops by propagation 783
+Broadcast received 0
+Broadcast sent 0
+TX total 20052
+RX total 12180
+PER 0.607420706164
+simulation ended after 66s.
+
+
+C:\Users\mojtaba\Desktop\fresh\bin\hell_directory>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

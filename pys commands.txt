@@ -1,0 +1,139 @@
+c:\python27\python.exe runSimOneCPU.py --gui --numRuns 1 --numCyclesPerRun 20 --simDataDir sampledir --numMotes 20 --squareSide 1 --pkPeriod 1
+
+
+c:\python27\python.exe runSimOneCPU.py --gui --numRuns 1 --numCyclesPerRun 10 --simDataDir sampledir8 --numMotes 7 --squareSide 0.1 --pkPeriod 0.001 --pkPeriodVar 0 --slotframeLength 9
+
+
+c:\python27\python.exe runSimOneCPU.py --gui --numRuns 1 --numCyclesPerRun 10 --simDataDir sampledir9 --numMotes 20 --squareSide 1 --pkPeriod 0.001 --pkPeriodVar 0 --slotframeLength 1000
+
+
+c:\python27\python.exe runSimOneCPU.py --gui --numRuns 1 --numCyclesPerRun 100 --simDataDir sampledir12 --numMotes 10 --squareSide 1 --pkPeriod 0.0001 --pkPeriodVar 0 --slotframeLength 100 --slotDuration 0.001
+
+
+
+c:\python27\python.exe runSimOneCPU.py --gui --numRuns 2 --numCyclesPerRun 1000 --simDataDir sampledir13 --numMotes 7 --squareSide 1 --pkPeriod 1 --pkPeriodVar 0 --slotframeLength 10 --slotDuration 0.1
+
+
+c:\python27\python.exe runSimOneCPU.py --gui --numRuns 2 --numCyclesPerRun 100 --simDataDir simData --numMotes 7 --squareSide 1 --pkPeriod 1 --pkPeriodVar 0 --slotframeLength 10 --slotDuration 0.1
+
+
+
+c:\python27\python.exe runSimOneCPU.py --gui --numRuns 2 --numCyclesPerRun 100 --simDataDir simData3 --numMotes 8 --squareSide 1 --pkPeriod 0.01 --pkPeriodVar 0 --slotframeLength 101 --slotDuration 0.01
+
+
+
+c:\python27\python.exe runSimOneCPU.py --gui --numRuns 1 --numCyclesPerRun 100 --simDataDir simData3 --numMotes 8 --squareSide 1 --pkPeriod 0.01 --pkPeriodVar 0 --slotframeLength 101 --slotDuration 0.01 --scheduler flowp
+
+
+
+
+    parser.add_argument('--flowDict',
+                        dest='flowDict',
+                        nargs='+',
+                        type=dict,
+                        default=False,
+                        help='{flow_id_0:[flow_priority, num_of_motes_having_this_flow], } ==> flow dictionary',
+                        )
+
+
+c:\python27\python.exe runSimOneCPU.py --gui --numRuns 1 --numCyclesPerRun 100 --simDataDir simData3 --numMotes 8 --squareSide 2 --pkPeriod 0.01 --pkPeriodVar 0 --slotframeLength 101 --slotDuration 0.01 --scheduler flowp
+
+
+
+
+otf-sf0:
+c:\python27\python.exe runSimOneCPU.py --gui --numRuns 1 --numCyclesPerRun 100 --simDataDir simData3 --numMotes 8 --squareSide 1 --pkPeriod 0.01 --pkPeriodVar 0 --slotframeLength 101 --slotDuration 0.01
+
+10 nodes:
+Drops by collision 100
+Drops by propagation 570
+Broadcast received 0
+Broadcast sent 0
+TX total 13342
+RX total 12672
+PER 0.949782641283
+simulation ended after 8s.
+
+
+20 nodes:
+Drops by collision 3341
+Drops by propagation 1094
+Broadcast received 0
+Broadcast sent 0
+TX total 29936
+RX total 25501
+PER 0.851850614645
+simulation ended after 23s.
+
+
+30 nodes:
+Drops by collision 9527
+Drops by propagation 1161
+Broadcast received 0
+Broadcast sent 0
+TX total 44071
+RX total 33383
+PER 0.75748224456
+simulation ended after 39s.
+
+
+
+
+40 nodes:
+Drops by collision 48033
+Drops by propagation 1106
+Broadcast received 0
+Broadcast sent 0
+TX total 89489
+RX total 40350
+PER 0.450893405893
+simulation ended after 81s.
+
+
+50 nodes:
+Drops by collision 71428
+Drops by propagation 971
+Broadcast received 0
+Broadcast sent 0
+TX total 109228
+RX total 36829
+PER 0.337175449518
+simulation ended after 113s.
+
+
+60 nodes:
+Drops by collision 85999
+Drops by propagation 771
+Broadcast received 0
+Broadcast sent 0
+TX total 137904
+RX total 51134
+PER 0.370794175658
+simulation ended after 157s.
+
+
+70 nodes:
+
+
+
+
+
+
+
+
+
+
+
+
+cd PycharmProjects/simulator/bin
+python agent-01.py --pkPeriod 0.01 --startOf 
+
+
+
+c:\python27\python.exe runSimOneCPU.py --gui --numRuns 1 --numCyclesPerRun 100 --squareSide 0.5 --pkPeriod 0.01 --pkPeriodVar 0 --slotframeLength 101 --slotDuration 0.01 --scheduler cen --objective_function OF0 --simDataDir OF0 --numMotes 10
+
+
+
+c:\python27\python.exe runSimOneCPU.py --gui --numRuns 1 --numCyclesPerRun 100 --squareSide 0.5 --pkPeriod 0.01 --pkPeriodVar 0 --slotframeLength 101 --slotDuration 0.01 --scheduler flowp --objective_function quell --simDataDir quell --numMotes 5
+
+
